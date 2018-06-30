@@ -1,6 +1,4 @@
-# Seaborn
-
-This repository was created to explore visualization through seaborn.
-Here you will find the datasets and the scripts elaborated in Python programming language.
+This repository was created to explore data visualization through R and Python.
+Here you will find the datasets and the scripts.
 
 Get inspired and have fun!
